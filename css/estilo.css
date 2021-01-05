@@ -17,6 +17,20 @@ header {
   	padding: 10px;
 }
 
+nav.menu{
+	background-color: black;
+	font-family: Arial, Helvetica, sans-serif;
+  	border: 1px solid gray;
+  	margin-top: 10px;
+	margin-bottom: 10px;
+  	padding: 10px;
+}
+
+ul.navega li{
+	display: inline;
+	color: white;
+}
+
 div.contenido {
 	background-color: rgb(234, 236, 238);
   	border: 1px solid gray;
