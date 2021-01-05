@@ -103,6 +103,14 @@ p.gryffi {
 	text-align: left;
 }
 
+p.gryffd {
+	color: rgb(100, 30, 22);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: right;
+}
+
 p.texto {
 	color: black;
 	font-size: 19px;
@@ -124,11 +132,113 @@ img.hermi {
 	margin-left: 80px;
 }
 
-p.gryffd {
-	color: rgb(100, 30, 22);
+
+
+div.minerva {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	text-align: justify;
+ 	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 0px;
+	margin-left: 36px;
+}
+
+img.mine {
+  	float: right;
+  	margin-right: 40px;
+	margin-left: 80px;
+}
+
+p.raveni {
+	color: rgb(21, 67, 96);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: left;
+}
+
+p.ravend {
+	color: rgb(21, 67, 96);
 	font-family: Times, Helvetica, sans-serif;
 	font-size: 30px;
 	font-style: oblique;
 	text-align: right;
 }
 
+p.huffli {
+	color: rgb(183, 149, 11);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: left;
+}
+
+p.huffld {
+	color: rgb(183, 149, 11);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: right;
+}
+p.slyti {
+	color: rgb(25, 111, 61);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: left;
+}
+
+p.slytd {
+	color: rgb(25, 111, 61);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: oblique;
+	text-align: right;
+}
+
+div.lunal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	text-align: justify;
+ 	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 36px;
+}
+
+img.luna {
+  	float: left;
+  	margin-right: 80px;
+	margin-left: 40px;
+}
+
+div.ninfadora {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	text-align: justify;
+ 	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 0px;
+	margin-left: 36px;
+}
+
+img.ninfa {
+  	float: right;
+  	margin-right: 40px;
+	margin-left: 80px;
+}
+
+div.narcissa {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	text-align: justify;
+ 	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-right: 36px;
+}
+
+img.narci {
+  	float: left;
+  	margin-right: 80px;
+	margin-left: 40px;
+}
