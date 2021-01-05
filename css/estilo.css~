@@ -34,34 +34,46 @@ div.song {
 	font-family: Times, Helvetica, sans-serif;
 	font-size: 19px;
 	font-style: italic;
+	text-align: center;
 }
 
 img.hogwarts {
   	float: left;
-  	margin-right: 30px;
+  	margin-right: 60px;
+	margin-left: 40px;
 }
 
 p.titulosong {
 	color: black;
 	font-size: 22px;
+	font-style: italic bold;
 }
 
-p.gryf{
+p.resto {
+	color: black;
+	font-size: 19px;
+}
+
+p.gryf {
 	color: rgb(100, 30, 22);
 	font-size: 19px;
 }
 
-p.rav{
+p.rav {
 	color: rgb(21, 67, 96);
 	font-size: 19px;
 }
 
-p.huff{
+p.huff {
 	color: rgb(183, 149, 11);
 	font-size: 19px;
 }
 
-p.sly{
+p.sly {
 	color: rgb(25, 111, 61);
 	font-size: 19px;
+}
+
+div.reset {
+  	clear: both;
 }
