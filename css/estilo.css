@@ -86,6 +86,7 @@ div.hermione {
 	text-align: justify;
  	margin-top: 40px;
 	margin-bottom: 40px;
+	margin-right: 36px;
 }
 
 img.hermi {
@@ -94,11 +95,12 @@ img.hermi {
 	margin-left: 40px;
 }
 
-p.gryffindor {
+p.gryffi {
 	color: rgb(100, 30, 22);
 	font-family: Times, Helvetica, sans-serif;
 	font-size: 26px;
 	font-style: oblique;
+	text-align: left;
 }
 
 p.texto {
@@ -112,6 +114,7 @@ div.ginny {
 	text-align: justify;
  	margin-top: 40px;
 	margin-bottom: 40px;
+	margin-right: 36px;
 }
 
 img.ginn {
@@ -119,3 +122,12 @@ img.ginn {
   	margin-right: 40px;
 	margin-left: 80px;
 }
+
+p.gryffd {
+	color: rgb(100, 30, 22);
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 26px;
+	font-style: oblique;
+	text-align: right;
+}
+
