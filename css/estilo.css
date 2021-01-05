@@ -5,8 +5,9 @@ body {
 
 h1 {
         text-align: center;
-	font-family: Trattatello, fantasy;
+	font-family: Trattatello, cursive;
 	color: rgb(244, 244, 244);
+	font-stretch: expanded; 
 }
 
 header {
@@ -14,6 +15,13 @@ header {
   	border: 1px solid gray;
   	margin: 0px;
   	padding: 10px;
+}
+
+div.contenido {
+	background-color: white;
+  	border: 1px solid gray;
+  	margin: 0px 40px;
+  	padding: 20px;
 }
 
 div.intro {
