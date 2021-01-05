@@ -98,7 +98,7 @@ img.hermi {
 p.gryffi {
 	color: rgb(100, 30, 22);
 	font-family: Times, Helvetica, sans-serif;
-	font-size: 26px;
+	font-size: 30px;
 	font-style: oblique;
 	text-align: left;
 }
@@ -127,7 +127,7 @@ img.ginn {
 p.gryffd {
 	color: rgb(100, 30, 22);
 	font-family: Times, Helvetica, sans-serif;
-	font-size: 26px;
+	font-size: 30px;
 	font-style: oblique;
 	text-align: right;
 }

@@ -40,9 +40,9 @@ div.song {
 }
 
 img.hogwarts {
-  	float: right;
-  	margin-right: 80px;
-	margin-left: 40px;
+  	float: left;
+  	margin-right: 40px;
+	margin-left: 80px;
 }
 
 p.titulosong {
@@ -80,7 +80,7 @@ div.reset {
   	clear: both;
 }
 
-div.hermione {
+div.ginny {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
@@ -89,7 +89,7 @@ div.hermione {
 	margin-right: 36px;
 }
 
-img.hermi {
+img.ginn {
   	float: left;
   	margin-right: 80px;
 	margin-left: 40px;
@@ -108,7 +108,7 @@ p.texto {
 	font-size: 19px;
 }
 
-div.ginny {
+div.hermione {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
@@ -118,7 +118,7 @@ div.ginny {
 	margin-left: 36px;
 }
 
-img.ginn {
+img.hermi {
   	float: right;
   	margin-right: 40px;
 	margin-left: 80px;
