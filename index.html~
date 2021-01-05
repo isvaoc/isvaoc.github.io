@@ -34,7 +34,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="hermione">
 			<img class="hermi" src="img/hermione.jpg" height="150" />
 			<aside>
-			<p class="gryffi">Hermione Granger</p>
+			<p class="gryffd">Hermione Granger</p>
 			<p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ligula tellus, aliquet tincidunt ante at, tristique pharetra enim. Vivamus dictum nisi sapien, at congue diam posuere eget. Duis id enim sapien. Sed mattis sit amet nunc sit amet porttitor. Sed eu rutrum magna. In lacinia fermentum nunc porttitor luctus. Maecenas est neque, placerat dapibus ipsum sed, pretium imperdiet nisi.  </p>
 			</aside> 
 			<div class="reset"></div>
@@ -45,7 +45,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="ginny">
 			<img class="ginn" src="img/ginny.jpg" height="150" />
 			<aside>
-			<p class="gryffd">Ginny Weasley</p>
+			<p class="gryffi">Ginny Weasley</p>
 			<p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ligula tellus, aliquet tincidunt ante at, tristique pharetra enim. Vivamus dictum nisi sapien, at congue diam posuere eget. Duis id enim sapien. Sed mattis sit amet nunc sit amet porttitor. Sed eu rutrum magna. In lacinia fermentum nunc porttitor luctus. Maecenas est neque, placerat dapibus ipsum sed, pretium imperdiet nisi.  </p>
 			</aside> 
 			<div class="reset"></div>
