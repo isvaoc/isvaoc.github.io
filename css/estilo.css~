@@ -29,3 +29,39 @@ div.intro {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 }
+
+div.song {
+	font-family: Times, Helvetica, sans-serif;
+	font-size: 19px;
+	font-style: italic;
+}
+
+img.hogwarts {
+  	float: left;
+  	margin-right: 30px;
+}
+
+p.titulosong {
+	color: black;
+	font-size: 22px;
+}
+
+p.gryf{
+	color: rgb(100, 30, 22);
+	font-size: 19px;
+}
+
+p.rav{
+	color: rgb(21, 67, 96);
+	font-size: 19px;
+}
+
+p.huff{
+	color: rgb(183, 149, 11);
+	font-size: 19px;
+}
+
+p.sly{
+	color: rgb(25, 111, 61);
+	font-size: 19px;
+}
