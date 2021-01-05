@@ -39,14 +39,14 @@ div.song {
 
 img.hogwarts {
   	float: left;
-  	margin-right: 60px;
-	margin-left: 40px;
+  	margin-right: 40px;
+	margin-left: 80px;
 }
 
 p.titulosong {
 	color: black;
-	font-size: 22px;
-	font-style: italic bold;
+	font-size: 26px;
+	font-style: oblique;
 }
 
 p.resto {

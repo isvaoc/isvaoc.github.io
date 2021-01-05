@@ -35,12 +35,13 @@ div.song {
 	font-size: 19px;
 	font-style: italic;
 	text-align: center;
+ 	margin: 20px;
 }
 
 img.hogwarts {
   	float: left;
-  	margin-right: 60px;
-	margin-left: 40px;
+  	margin-right: 40px;
+	margin-left: 80px;
 }
 
 p.titulosong {
