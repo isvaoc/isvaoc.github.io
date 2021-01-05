@@ -10,10 +10,9 @@ h1 {
 }
 
 header {
-        height: 70px;
 	background-color: black;
-  	border: 1px solid black;
-  	margin: 50px;
+  	border: 1px solid white;
+  	margin: 0px;
   	padding: 20px;
 }
 
