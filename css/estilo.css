@@ -1,6 +1,6 @@
 body {
         background-color: rgb(128, 139, 150);
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: "Crimson Text", Georgia;
 }
 
 h1 {
@@ -24,6 +24,7 @@ ul.navega {
   padding: 0;
   overflow: hidden;
   background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 li {
@@ -36,6 +37,7 @@ li a {
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 li a:hover {
@@ -52,7 +54,7 @@ div.contenido {
 
 div.intro {
 	text-align: justify;
-	font: "Crimson Text", Georgia;
+	font-family: "Crimson Text", Georgia;
 	font-size: 21px;
 }
 
