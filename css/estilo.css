@@ -52,7 +52,8 @@ div.contenido {
 
 div.intro {
 	text-align: justify;
-	font: 22px italic bold small-caps "Crimson Text", Georgia;
+	font: "Crimson Text", Georgia;
+	font-size: 21px;
 }
 
 div.song {
@@ -165,8 +166,7 @@ img.hermi {
 
 
 div.minerva {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 19px;
+	font: italic small-caps bold 22px Georgia, serif;
 	text-align: justify;
  	margin-top: 40px;
 	margin-bottom: 40px;

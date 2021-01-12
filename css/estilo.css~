@@ -52,8 +52,7 @@ div.contenido {
 
 div.intro {
 	text-align: justify;
-	font-family: "Crimson Text", Georgia;
-	font-size: 19px;
+	font: 22px italic bold small-caps "Crimson Text", Georgia;
 }
 
 div.song {
