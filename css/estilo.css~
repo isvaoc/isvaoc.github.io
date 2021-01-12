@@ -55,7 +55,7 @@ div.contenido {
 div.intro {
 	text-align: justify;
 	font-family: "Crimson Text", Georgia;
-	font-size: 21px;
+	font-size: 24px;
 }
 
 div.song {
