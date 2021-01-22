@@ -2,7 +2,7 @@
 <html>
         <head>
                 <title>Harry Potter</title>
-		<link rel="icon" href="img/hp.svg" type="image/svg" sizes="32x32">
+		<link rel="icon" href="img/hp.jpeg" type="image/jpeg" sizes="16x16">
                 <link rel="stylesheet" href="css/estilo.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Julius+Sans+One|Oswald">
 		<script src='https://kit.fontawesome.com/a076d05399.js'></script>
