@@ -13,11 +13,9 @@
 
         <body>
                 <header>
-                        <p class="titu"> 
-			<img src="img/hogwarts.png" style="float:left;height:60px;">
-			<img src="img/hp.png" style="float:right;height:60px;">
+                        <h1 class="titu"> 
 			MUJERES ADMIRABLES 
-			</p>
+			</h1>
                 </header>
 
 		
