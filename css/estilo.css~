@@ -6,17 +6,15 @@ body {
         font-family: "Crimson Text", Georgia;
 }
 
-.titu a.logo {
-	float: left;
+.titu p.logo {
         text-align: center;
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
 	font-size: 40px;
-	text-decoration: none;
 }
 
-.imder{
+.harry{
 	float:right;
 }
 

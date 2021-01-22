@@ -6,16 +6,13 @@ body {
         font-family: "Crimson Text", Georgia;
 }
 
-.titu p.logo {
+p.titulo {
         text-align: center;
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
 	font-size: 40px;
-}
-
-.harry{
-	float:right;
+	margin: 18px;
 }
 
 header {
