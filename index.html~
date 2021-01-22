@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
         <head>
-                <title>Página web</title>
+                <title>LUMOS</title>
+		<link rel="icon" href="img/hp.png" type="image/png" sizes="16x16">
                 <link rel="stylesheet" href="css/estilo.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Julius+Sans+One|Oswald">
-
 		<script src='https://kit.fontawesome.com/a076d05399.js'></script>
         </head>
 	<style>
@@ -13,14 +13,14 @@
 
         <body>
                 <header>
-                        <h1>MUJERES  INSPIRADORAS  EN  LA  SAGA  DE  HARRY  POTTER</h1>
+                        <h1>MUJERES ADMIRABLES</h1>
                 </header>
 
 		
 		<div class="navega">
-    			<a class="activo" href="#"><i class='fas fa-house-user'></i>Inicio</a>
-    			<a href="https://harrypotter.fandom.com/es/wiki/Colegio_Hogwarts_de_Magia_y_Hechicer%C3%ADa"><i class='fas fa-broom'></i>Historia de Hogwarts</a>
-    			<a href="https://www.wizardingworld.com/"><i class='fas fa-hat-wizard'></i>Wizarding World</a>
+    			<a class="activo" href="#"><i class='fas fa-house-user'></i> Home</a>
+    			<a href="https://harrypotter.fandom.com/es/wiki/Colegio_Hogwarts_de_Magia_y_Hechicer%C3%ADa"><i class='fas fa-broom'></i> Historia de Hogwarts</a>
+    			<a href="https://www.wizardingworld.com/"><i class='fas fa-hat-wizard'></i> Wizarding World</a>
   		</div>
 		
 
