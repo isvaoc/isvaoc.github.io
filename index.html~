@@ -13,12 +13,7 @@
 
         <body>
                 <header>
-                        <div class="titu"> 
-			<p class="logo">MUJERES ADMIRABLES</a>
-			
-			<img class="harry" src="img/harry.png" height= "40px" />
-			
-			</div>
+			<p class="titulo">MUJERES ADMIRABLES</p>
                 </header>
 
 		
