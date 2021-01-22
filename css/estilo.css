@@ -6,19 +6,18 @@ body {
         font-family: "Crimson Text", Georgia;
 }
 
-h1 {
+p.titu {
         text-align: center;
 	font-family: "Oswald", Helvetica Neue;
+	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-stretch: expanded; 
-	text-shadow: 4px 4px 6px pink;
+	font-size: 40px;
 }
 
 header {
-	background-color: black;
+	background-color: rgb(47,47,47);
   	border: 1px solid gray;
-  	margin: 0px;
-  	padding: 10px;
+  	margin: 12px;
 }
 
 .navega{
