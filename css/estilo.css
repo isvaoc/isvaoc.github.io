@@ -86,6 +86,7 @@ p.titulosong {
 	color: black;
 	font-size: 26px;
 	font-style: oblique;
+	font-weight: bold;
 }
 
 p.resto {
@@ -103,19 +104,19 @@ p.gryf {
 p.rav {
 	color: rgb(21, 67, 96);
 	font-size: 19px;
-        font-style: normal;
+        font-style: italic;
 }
 
 p.huff {
 	color: rgb(183, 149, 11);
 	font-size: 19px;
-        font-weight: bold;
+        font-style: italic;
 }
 
 p.sly {
 	color: rgb(25, 111, 61);
 	font-size: 19px;
-        font-variant: small-caps;
+        font-style: italic;
 }
 
 div.reset {
@@ -139,17 +140,13 @@ img.ginn {
 
 p.gryffi {
 	color: rgb(100, 30, 22);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: left;
 }
 
 p.gryffd {
 	color: rgb(100, 30, 22);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: right;
 }
 
@@ -159,7 +156,7 @@ p.texto {
 }
 
 div.hermione {
-	font-family: Georgia, Times, serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
  	margin-top: 40px;
@@ -177,7 +174,7 @@ img.hermi {
 
 
 div.minerva {
-	font: italic small-caps bold 22px Georgia, serif;
+	font-family: Arial, Helvetica, sans-serif;
 	text-align: justify;
  	margin-top: 40px;
 	margin-bottom: 40px;
@@ -193,53 +190,41 @@ img.mine {
 
 p.raveni {
 	color: rgb(21, 67, 96);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: left;
 }
 
 p.ravend {
 	color: rgb(21, 67, 96);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: right;
 }
 
 p.huffli {
 	color: rgb(183, 149, 11);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: left;
 }
 
 p.huffld {
 	color: rgb(183, 149, 11);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: right;
 }
 p.slyti {
 	color: rgb(25, 111, 61);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: left;
 }
 
 p.slytd {
 	color: rgb(25, 111, 61);
-	font-family: Times, Helvetica, sans-serif;
-	font-size: 30px;
-	font-style: oblique;
+	font: oblique small-caps bold 30px Times, serif;
 	text-align: right;
 }
 
 div.lunal {
-	font-family: "Courier New", "Lucida COnsole", Monospace;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
  	margin-top: 40px;
@@ -254,7 +239,7 @@ img.luna {
 }
 
 div.ninfadora {
-	font-family: "Brush Script MT", "Lucida Handwriting", Cursive;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
  	margin-top: 40px;
@@ -270,7 +255,7 @@ img.ninfa {
 }
 
 div.narcissa {
-	font-family: Copperplate, Papyrus, Fantasy;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 19px;
 	text-align: justify;
  	margin-top: 40px;
