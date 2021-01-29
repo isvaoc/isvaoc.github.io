@@ -22,8 +22,18 @@
 		
 		<div class="navega">
     			<a class="activo" href="#"><i class='fas fa-house-user'></i> Home</a>
-    			<a href="https://harrypotter.fandom.com/es/wiki/Colegio_Hogwarts_de_Magia_y_Hechicer%C3%ADa"><i class='fas fa-broom'></i> Historia de Hogwarts</a>
-    			<a href="https://www.wizardingworld.com/"><i class='fas fa-hat-wizard'></i> Wizarding World</a>
+			<div class="desplegable">
+				<button class="despbtn"><i class='fas fa-broom'></i> Casas de Hogwarts 
+					<i class="fas fa-angle-double-down"></i>
+				</button>
+				<div class="casas">
+					<a href="#"> Gryffindor </a>
+					<a href="#"> Ravenclaw </a>
+					<a href="#"> Hufflepuff </a>
+					<a href="#"> Slytherin </a>
+				</div>
+			</div>  
+   			<a href="https://www.wizardingworld.com/"><i class='fas fa-hat-wizard'></i> Wizarding World</a>  
   		</div>
 		
 
@@ -56,7 +66,7 @@ para los diferentes caracteres de su alumnado:</p>
 			</a>
 			<aside>
 			<p class="gryffd">Hermione Granger</p>
-			<p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ligula tellus, aliquet tincidunt ante at, tristique pharetra enim. Vivamus dictum nisi sapien, at congue diam posuere eget. Duis id enim sapien. Sed mattis sit amet nunc sit amet porttitor. Sed eu rutrum magna. In lacinia fermentum nunc porttitor luctus. Maecenas est neque, placerat dapibus ipsum sed.  </p>
+			<p class="texto">Es el primer personaje femenino amable que Harry Potter se encuentra y desde el primer momento es muy notorio que es muy inteligente. Ella es una bruja que nació de padres "muggles" (personas que no poseen habilidades mágicas, personas comúnes) y eso para alguien más podría significar cierta desventaja pero ella la superó con sus estudios, su esfuerzo y su dedicación. Hermione a pesar de ser un personaje discriminado y constante víctima del bullying, nos enseña la importancia del amor propio y la empatía. </p>
 			</aside> 
 			<div class="reset"></div>
 			</div>
@@ -128,6 +138,9 @@ para los diferentes caracteres de su alumnado:</p>
 
 			<hr color="gray" size=1 width="1000">
 
+		</div>
+		<div class="final">
+			<p class="mero"> Travesura realizada </p>
 		</div>
         </body>
 </html>

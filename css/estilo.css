@@ -37,12 +37,64 @@ header {
   	text-align: center; 
 }
 
+
+.navega a.activo{
+	background-color: rgb(25,111,61);
+}
+
+.desplegable{
+	float: left;
+	overflow: hidden;
+	width: 33.33%;
+	text-align: center;
+	font-size: 19px;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+.desplegable .despbtn{
+  	outline: none;
+	border: none;
+  	padding: 12px;
+  	color: white;
+  	font-size: 19px;
+	font-family: inherit;
+  	margin:0px;
+  	
+	background-color: inherit;
+}
+
 .navega a:hover{
 	background-color: rgb(21, 67, 96);
 }
 
-.navega a.activo{
-	background-color: rgb(25,111,61);
+.desplegable:hover{
+	background-color: rgb(21, 67, 96);
+}
+
+.casas {
+	display: none;
+	position: absolute;
+	background-color: gray;
+	z-index: 1;
+	width: inherit;
+}
+
+.casas a{
+	float: none;
+  	padding: 12px;
+  	color: white;
+  	text-decoration: none;
+	display: block;
+  	text-align: center;
+	width: auto; 
+}
+
+.casas a:hover{
+	background-color: rgb(4, 62, 60);
+}
+
+.desplegable:hover .casas{
+	display: block;
 }
 
 @media screen and (max-width: 500px) {
@@ -57,7 +109,7 @@ header {
 div.contenido {
 	background-color: rgb(234, 236, 238);
   	border: 1px solid gray;
-  	margin: 10px 60px;
+  	margin: 10px 60px 4px;
   	padding: 20px 50px;
 }
 
@@ -163,12 +215,13 @@ div.hermione {
 	margin-bottom: 40px;
 	margin-right: 0px;
 	margin-left: 36px;
+	padding-right: 40px;
 }
 
 img.hermi {
   	float: right;
-  	margin-right: 40px;
-	margin-left: 80px;
+  	margin-right: 0px;
+	margin-left: 50px;
 }
 
 
@@ -267,4 +320,19 @@ img.narci {
   	float: left;
   	margin-right: 80px;
 	margin-left: 40px;
+}
+
+div.final{
+	background-color: rgb(47,47,47);
+	border: 1px solid gray;
+  	margin: 0px;
+}
+
+p.mero {
+        text-align: center;
+	font-family: "Oswald", Helvetica Neue;
+	font-variant: small-caps;
+	color: rgb(244, 244, 244);
+	font-size: 17px;
+	margin: 18px;
 }
