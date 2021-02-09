@@ -45,7 +45,7 @@
 			</div>
 
 			<div class="song">
-			<img class="hogwarts" src="img/hogwarts2.jpg" width="265" />
+			<img class="hogwarts" src="img/hogwarts2.jpg" width="22%" />
 			<aside>
 			<p class="titulosong"> Canción del sombrero seleccionador </p>
 			<p class="resto">Cada uno de aquellos cuatro fundadores fundó una casa diferente <br>
@@ -58,7 +58,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 			<div class="hermione">
 			<a href="https://harrypotter.fandom.com/es/wiki/Hermione_Granger">
@@ -84,7 +84,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 			<div class="minerva">
 			<a href="https://harrypotter.fandom.com/es/wiki/Minerva_McGonagall">
@@ -97,7 +97,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 			<div class="lunal">
 			<a href="https://harrypotter.fandom.com/es/wiki/Luna_Lovegood">
@@ -110,7 +110,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 			<div class="ninfadora">
 			<a href="https://harrypotter.fandom.com/es/wiki/Nymphadora_Tonks">
@@ -123,7 +123,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 			<div class="narcissa">
 			<a href="https://harrypotter.fandom.com/es/wiki/Narcisa_Malfoy">
@@ -136,7 +136,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<div class="reset"></div>
 			</div>
 
-			<hr color="gray" size=1 width="1000">
+			<hr color="gray" size=1 width="96%">
 
 		</div>
 		<div class="final">
