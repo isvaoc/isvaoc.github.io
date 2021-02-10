@@ -24,7 +24,7 @@
     			<a class="activo" href="#"><i class='fas fa-house-user'></i> Home</a>
 			<div class="desplegable">
 				<button class="despbtn"><i class='fas fa-broom'></i> Casas de Hogwarts 
-					<i class="fas fa-angle-double-down"></i>
+					<i class="far fa-angle-double-down"></i>
 				</button>
 				<div class="casas">
 					<a href="#"> Gryffindor </a>
