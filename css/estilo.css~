@@ -106,18 +106,7 @@ header {
   	}
 	
 	
-	div.rejilla > div {
-	font-family: "Oswald", Helvetica Neue;
-	font-variant: small-caps;
-	color: rgb(244, 244, 244);
-	font-size: 4px;
-	margin: 18px;
-	}
 
-	div.rej-cen{
-		text-align: center;
-		padding: 60px auto auto auto;
-	}
 }
 
 div.contenido {
@@ -353,7 +342,7 @@ div.rejilla{
 	display: grid;
 	width: 100%;
 	grid-template-columns: 45% 10% 45%;
-	grid-template-rows: 60px;
+	grid-template-rows: auto;
 }
 
 
@@ -362,7 +351,7 @@ div.rejilla > div {
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-size: 80%;
+	font-size: 100%;
 	margin: 18px;
 }
 
