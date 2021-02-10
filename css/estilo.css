@@ -359,7 +359,7 @@ div.rejilla{
   	margin: 0px;
 	display: grid;
 	width: 100%;
-	grid-template-columns: 45% 10% 45%;
+	grid-template-columns: auto auto;
 	grid-template-rows: auto;
 }
 
@@ -370,7 +370,7 @@ div.rejilla > div {
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-size: 102%;
+	font-size: 104%;
 	margin: 18px;
 }
 

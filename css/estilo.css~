@@ -366,25 +366,13 @@ div.rejilla{
 
 
 div.rejilla > div {
+	text-align:center;
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-size: 102%;
+	font-size: 104%;
 	margin: 18px;
 }
 
-div.rej-izq{
-	text-align: left;
-	padding-left: 25%;
-}
 
-div.rej-cen{
-	text-align: center;
-	padding: auto auto;
-}
-
-div.rej-der{
-	text-align: right;
-	padding-right: 25%;
-}
 
