@@ -130,8 +130,8 @@ div.song {
 
 img.hogwarts {
   	float: left;
-  	margin-right: 40px;
-	margin-left: 80px;
+  	margin-right: 35px;
+	margin-left: 70px;
 }
 
 p.titulosong {
@@ -182,12 +182,14 @@ div.ginny {
  	margin-top: 40px;
 	margin-bottom: 40px;
 	margin-right: 36px;
+	margin-left: 0px;
+	padding-left: 40px;
 }
 
 img.ginn {
   	float: left;
-  	margin-right: 80px;
-	margin-left: 40px;
+  	margin-right: 50px;
+	margin-left: 0px;
 }
 
 p.gryffi {
@@ -232,13 +234,15 @@ div.minerva {
  	margin-top: 40px;
 	margin-bottom: 40px;
 	margin-right: 0px;
+	margin-right: 0px;
 	margin-left: 36px;
+	padding-right: 40px;
 }
 
 img.mine {
   	float: right;
-  	margin-right: 40px;
-	margin-left: 80px;
+  	margin-right: 0px;
+	margin-left: 50px;
 }
 
 p.raveni {
@@ -283,12 +287,14 @@ div.lunal {
  	margin-top: 40px;
 	margin-bottom: 40px;
 	margin-right: 36px;
+	margin-left: 0px;
+	padding-left: 40px;
 }
 
 img.luna {
   	float: left;
-  	margin-right: 80px;
-	margin-left: 40px;
+  	margin-right: 50px;
+	margin-left: 0px;
 }
 
 div.ninfadora {
@@ -298,13 +304,15 @@ div.ninfadora {
  	margin-top: 40px;
 	margin-bottom: 40px;
 	margin-right: 0px;
+	margin-right: 0px;
 	margin-left: 36px;
+	padding-right: 40px;
 }
 
 img.ninfa {
   	float: right;
-  	margin-right: 40px;
-	margin-left: 80px;
+  	margin-right: 0px;
+	margin-left: 50px;
 }
 
 div.narcissa {
@@ -314,12 +322,14 @@ div.narcissa {
  	margin-top: 40px;
 	margin-bottom: 40px;
 	margin-right: 36px;
+	margin-left: 0px;
+	padding-left: 40px;
 }
 
 img.narci {
   	float: left;
-  	margin-right: 80px;
-	margin-left: 40px;
+  	margin-right: 50px;
+	margin-left: 0px;
 }
 
 div.final{
