@@ -97,13 +97,16 @@ header {
 	display: block;
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
   	.navbar a {
     	float: none;
     	display: block;
     	width: 100%;
     	text-align: center; 
   	}
+	
+	
+
 }
 
 div.contenido {
@@ -337,7 +340,9 @@ div.rejilla{
 	border: 1px solid gray;
   	margin: 0px;
 	display: grid;
-	grid-template-columns: 33.33% 33.33% 33.33%;
+	width: 100%;
+	grid-template-columns: 45% 10% 45%;
+	grid-template-rows: 60px;
 }
 
 
@@ -346,7 +351,7 @@ div.rejilla > div {
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-size: 17px;
+	font-size: 80%;
 	margin: 18px;
 }
 
@@ -357,6 +362,7 @@ div.rej-izq{
 
 div.rej-cen{
 	text-align: center;
+	padding: auto auto;
 }
 
 div.rej-der{
