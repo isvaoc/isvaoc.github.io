@@ -97,7 +97,7 @@ header {
 	display: block;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
   	.navbar a {
     	float: none;
     	display: block;
@@ -363,8 +363,8 @@ div.rejilla > div {
 	font-family: "Oswald", Helvetica Neue;
 	font-variant: small-caps;
 	color: rgb(244, 244, 244);
-	font-size: 104%;
-	margin: 18px;
+	font-size: 1vw;
+	margin: 10px 0px;
 }
 
 
