@@ -63,7 +63,7 @@ para los diferentes caracteres de su alumnado:</p>
 
 			<div class="hermione">
 			<a href="https://harrypotter.fandom.com/es/wiki/Hermione_Granger">
-			<img class="hermi" src="img/Hermione.webp" height="360vw" />
+			<img class="hermi" src="img/Hermione.webp" height="340vw" />
 			</a>
 			<aside>
 			<p class="gryffd">Hermione Granger</p>
@@ -80,15 +80,19 @@ para los diferentes caracteres de su alumnado:</p>
 
 			<div class="ginny">
 			<a href="https://harrypotter.fandom.com/es/wiki/Ginevra_Weasley">
-			<img class="ginn" src="img/Ginny.webp" height="300vw" />
+			<img class="ginn" src="img/Ginny.webp" height="340vw" />
 			</a>
 			<aside>
 			<p class="gryffi">Ginny Weasley</p>
-			<p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ligula tellus, aliquet tincidunt ante at, tristique pharetra enim. Vivamus dictum nisi sapien, at congue diam posuere eget. Duis id enim sapien. Sed mattis sit amet nunc sit amet porttitor. Sed eu rutrum magna. In lacinia fermentum nunc porttitor luctus. Maecenas est neque, placerat.  </p>
+			
+			<p class="texto">Ginevra fue la menor de los 7 hermanos Weasley y la única mujer en la familia además de Molly. Ella formó parte de la resistencia contra Voldemort, fue miembro del Ejército de Dumbledore y más adelante, de la Orden del Fénix. Fue una duelista talentosa que demostró sus habilidades en numerosas batallas al lado de su futuro esposo, Harry. En su vida adulta, se convirtió en una jugadora profesional de Quidditch y en corresponsal del Diario El Profeta.</p>
 
-			<p class="texto" style="text-indent: 50px;">Ginevra  </p>
+			<p class="texto" style="text-indent: 50px;">La triste realidad de Ginny es que en las películas le quitaron muchos de los atributos que la hacían un muy buen personaje en el libro. Sí, en las películas pudimos ver el cambio de niña tímida a adolescente segura y valiente... pero no nos mostraron todo el desarrollo entre esos dos puntos.  </p>
 
-			<p class="texto" style="text-indent: 50px;">Si quieres conocer más de la historia de <strong>Ginevra</strong>, da click en su imagen.</p>
+			<p class="texto">En su infancia al ser una niña vulnerable fue un objetivo fácil de manipular pero una vez que se libró de eso, decidió no volver a ser una damisela en peligro. No se conformo con ser una víctima, al contrario, usó ese sentimiento para labrar una personalidad fuerte e independiente, llegando a ser una bruja respetada y reconocida.
+</p>
+
+			<p class="texto" style="text-indent: 50px;">Si estás interesado en conocer la historia real y completa de <strong>Ginevra Weasley</strong>, da click en su imagen.</p>
 			</aside> 
 			<div class="reset"></div>
 			</div>
@@ -103,7 +107,7 @@ para los diferentes caracteres de su alumnado:</p>
 			<p class="gryffd">Minerva McGonagall</p>
 			<p class="texto">McGonagall era la jefa de la casa de Gryffindor y la profesora de transformaciones en Hogwarts. Ella formó parte de la Orden del Fénix en sus dos generaciones y se mantuvo fiel al equipo de Dumbledore. Como profesora siempre fue muy estricta con sus estudiantes y justa a la hora de tomar decisiones. Como persona era eficiente, inteligente, confiable y muy empática.  </p>
 
-			<p class="texto" style="text-indent: 50px;">Minerva fue un personaje que tenía cero tolerancia con los bullys, siempre se involucraba en las discusiones para apoyar al indefenso y para marcarle un alto al abusador, no importándole si era un colega o un estudiante o una persona con más autoridad que ella. </p>
+			<p class="texto" style="text-indent: 50px;">Minerva fue un personaje que tenía cero tolerancia con los bullies, siempre se involucraba en las discusiones para apoyar al indefenso y para marcarle un alto al abusador, no importándole si era un colega o un estudiante o una persona con más autoridad que ella. </p>
 
 			<p class="texto" style="text-indent: 50px;">Si quieres conocer más de la vida de la profesora <strong>McGonagall</strong>, da click en su imagen.</p>
 			</aside> 
@@ -120,9 +124,9 @@ para los diferentes caracteres de su alumnado:</p>
 			<p class="raveni">Luna Lovegood</p>
 			<p class="texto">Luna fue una estudiante sobresaliente de Ravenclaw, la conocimos justo a la mitad de la historia pero poco a poco fue haciéndose un espacio en nuestros corazones. Era un año menor que Harry Potter pero no dudó en unirse al Ejército de Dumbledore para apoyar su causa. Luchó a su lado en las batallas del Ministerio de Magia, la Torre de Astronomía y de Hogwarts.</p>
 
-			<p class="texto" style="text-indent: 50px;">Ella tenía una estrafalaria personalidad y fue señalada por ello. Sus compañeros solían llamarla "Lunática" por ser diferente, por tener otras ideas y por  </p>
+			<p class="texto" style="text-indent: 50px;"> Desde la primera aparición de Luna en la historia, podemos notar que es un personaje solitario pero no por gusto propio sino por el rechazo de sus compañeros. Ellos solían llamarla "Lunática" por ser peculiar, por tener ideas diferentes y una personalidad un poco estrafalaria. Ella tenía dos opciones en esos entornos hostiles: cambiar para encajar con sus compañeros o ser fiel a sí misma y preferirse antes que a los demás. Nos mostró que es mejor estar solo que mal acompañado puesto que las personas que te lastiman no valen la pena. Además, nos da un ejemplo de cómo ellos, ignorarlos y seguir con nuestra vida. </p>
 
-			<p class="texto" style="text-indent: 50px;">Si quieres conocer más de la peculiar personalidad de <strong>Luna Lovegood</strong> así como de su interesante vida, da click en su imagen.</p> 
+			<p class="texto" style="text-indent: 18px;">Si quieres conocer más de la peculiar personalidad de <strong>Luna Lovegood</strong> así como de su interesante vida, da click en su imagen.</p> 
 			</aside> 
 			<div class="reset"></div>
 			</div>
