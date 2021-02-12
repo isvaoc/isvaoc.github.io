@@ -28,10 +28,10 @@
 					<i class="fas fa-angle-double-down"></i>
 				</button>
 				<div class="casas">
-					<a href="#"> Gryffindor </a>
-					<a href="#"> Ravenclaw </a>
-					<a href="#"> Hufflepuff </a>
-					<a href="#"> Slytherin </a>
+					<a href="https://harrypotter.fandom.com/es/wiki/Gryffindor"> Gryffindor </a>
+					<a href="https://harrypotter.fandom.com/es/wiki/Ravenclaw"> Ravenclaw </a>
+					<a href="https://harrypotter.fandom.com/es/wiki/Hufflepuff"> Hufflepuff </a>
+					<a href="https://harrypotter.fandom.com/es/wiki/Slytherin"> Slytherin </a>
 				</div>
 			</div>  
    			<a href="https://www.wizardingworld.com/"><i class='fas fa-hat-wizard'></i> Wizarding World</a>  
@@ -89,7 +89,7 @@ para los diferentes caracteres de su alumnado:</p>
 
 			<p class="texto" style="text-indent: 50px;">La triste realidad de Ginny es que en las películas le quitaron muchos de los atributos que la hacían un muy buen personaje en el libro. Sí, en las películas pudimos ver el cambio de niña tímida a adolescente segura y valiente... pero no nos mostraron todo el desarrollo entre esos dos puntos.  </p>
 
-			<p class="texto">En su infancia al ser una niña vulnerable fue un objetivo fácil de manipular pero una vez que se libró de eso, decidió no volver a ser una damisela en peligro. No se conformo con ser una víctima, al contrario, usó ese sentimiento para labrar una personalidad fuerte e independiente, llegando a ser una bruja respetada y reconocida.
+			<p class="texto">En su infancia al ser una niña vulnerable fue un objetivo fácil de manipular pero una vez que se libró de eso, decidió no volver a ser una damisela en peligro. No se conformó con ser una víctima, al contrario, usó ese sentimiento para labrar una personalidad fuerte e independiente, llegando a ser una bruja respetada y reconocida.
 </p>
 
 			<p class="texto" style="text-indent: 50px;">Si estás interesado en conocer la historia real y completa de <strong>Ginevra Weasley</strong>, da click en su imagen.</p>
