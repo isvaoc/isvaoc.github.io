@@ -163,7 +163,7 @@ header {
     padding: 0px 30px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1280px) {
     .grid-container {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto auto auto auto auto auto auto;
