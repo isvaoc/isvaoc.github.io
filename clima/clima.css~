@@ -5,14 +5,14 @@
 body {
     background-color: rgba(160, 160, 160, 0.363);
     font-family: Arial, sans-serif;
-    font-size: 1.1em;
+    font-size: 18px;
 }
 
 header {
     width: 100%;
     text-align: center;
     font-family: 'Suez One', serif;
-    font-size: 3em;
+    font-size: 2em;
     margin: 0px 0px 00px 0px;
     padding: 6px 0px;
     background-color: rgb(47, 47, 47);
@@ -163,7 +163,7 @@ header {
     padding: 0px 30px;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 800px) {
     .grid-container {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto auto auto auto auto auto auto;
@@ -187,7 +187,7 @@ header {
     }
 }
 
-@media (min-width: 760px) {
+@media (min-width: 860px) {
     .col-3 {
         display: inline-block;
         width: auto;
@@ -217,7 +217,7 @@ header {
     }
 }
 
-@media (min-width: 788px) {
+@media (min-width: 888px) {
     .col-5 {
         display: inline-block;
         width: auto;
@@ -235,7 +235,7 @@ header {
     }
 }
 
-@media (min-width: 872px) {
+@media (min-width: 972px) {
     .col-5 {
         display: inline-block;
         width: auto;
