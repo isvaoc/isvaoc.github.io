@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Clasificación climática de Köppen-García</title>
+    <link rel="stylesheet" href="clima.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Suez+One&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <p>Clasificación climática de Köppen-García</p>
+    </header>
+
+    <div class="navbar">
+        <a href="index.html">Inicio</a>
+        <a href="ref.html">Información del programa</a>
+        <a href="#" class="active">Clasificador de Köppen-García</a>
+        </a>
+    </div>
+
+    <div class="grid-container">
+        <div class="titulo">
+            <h2>Clasificación del clima de una estación</h2>
+        </div>
+        <div class="formu1">
+            <form>
+                <div class="grupo1">
+                    <div class="col-3">
+                        <label for="nombre">Nombre de la estación </label>
+                        <input type="text" id="nombre" placeholder="AAAAAAA">
+                    </div>
+                    <div class="col-4">
+                        <label for="altura">Altitud de la estación (m) </label>
+                        <input type="text" id="altura" required placeholder="1234">
+                    </div>
+                </div>
+                <div class="grupo2">
+                    <div class="col-3">
+                        <label for="latitud">Latitud de la estación </label>
+                        <input type="text" id="latitud" placeholder="00° 00' 00'' C">
+                    </div>
+                    <div class="col-4">
+                        <label for="longitud">Longitud de la estación </label>
+                        <input type="text" id="longitud" required placeholder="000° 00' 00.0'' C">
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="formu2">
+            <p>Introduce los datos de la temperatura mensual en grados Celsius.</p>
+            <p class="nota">Nota: Escribe el número sin la unidad (°C).</p>
+            <form>
+                <div class="row-1">
+                    <div class="col-1"><label for="tEnero">Enero</label></div>
+                    <div class="col-2"><input type="text" id="tEnero" required placeholder="20.8"></div>
+                </div>
+                <div class="row-2">
+                    <div class="col-1"><label for="tFebrero">Febrero</label></div>
+                    <div class="col-2"><input type="text" id="tFebrero" required placeholder="20.8"></div>
+                </div>
+                <div class="row-3">
+                    <div class="col-1"><label for="tMarzo">Marzo</label></div>
+                    <div class="col-2"><input type="text" id="tMarzo" required placeholder="20.8"></div>
+                </div>
+                <div class="row-4">
+                    <div class="col-1"><label for="tAbril">Abril</label></div>
+                    <div class="col-2"><input type="text" id="tAbril" required placeholder="20.8"></div>
+                </div>
+                <div class="row-5">
+                    <div class="col-1"><label for="tMayo">Mayo</label></div>
+                    <div class="col-2"><input type="text" id="tMayo" required placeholder="20.8"></div>
+                </div>
+                <div class="row-6">
+                    <div class="col-1"><label for="tJunio">Junio</label></div>
+                    <div class="col-2"><input type="text" id="tJunio" required placeholder="20.8"></div>
+                </div>
+                <div class="row-7">
+                    <div class="col-1"><label for="tJulio">Julio</label></div>
+                    <div class="col-2"><input type="text" id="tJulio" required placeholder="20.8"></div>
+                </div>
+                <div class="row-8">
+                    <div class="col-1"><label for="tAgosto">Agosto</label></div>
+                    <div class="col-2"><input type="text" id="tAgosto" required placeholder="20.8"></div>
+                </div>
+                <div class="row-9">
+                    <div class="col-1"><label for="tSeptiembre">Septiembre</label></div>
+                    <div class="col-2"><input type="text" id="tSeptiembre" required placeholder="20.8"></div>
+                </div>
+                <div class="row-10">
+                    <div class="col-1"><label for="tOctubre">Octubre</label></div>
+                    <div class="col-2"><input type="text" id="tOctubre" required placeholder="20.8"></div>
+                </div>
+                <div class="row-11">
+                    <div class="col-1"><label for="tNoviembre">Noviembre</label></div>
+                    <div class="col-2"><input type="text" id="tNoviembre" required placeholder="20.8"></div>
+                </div>
+                <div class="row-12">
+                    <div class="col-1"><label for="tDiciembre">Diciembre</label></div>
+                    <div class="col-2"><input type="text" id="tDiciembre" required placeholder="20.8"></div>
+                </div>
+            </form>
+        </div>
+        <div class="formu3">
+            <p>Introduce los datos de la precipitación total mensual en milímetros.</p>
+            <p class="nota">Nota: Escribe el número sin la unidad (mm).</p>
+            <form>
+                <div class="row-1">
+                    <div class="col-1"><label for="pEnero">Enero</label></div>
+                    <div class="col-2"><input type="text" id="pEnero" required placeholder="820"></div>
+                </div>
+                <div class="row-2">
+                    <div class="col-1"><label for="pFebrero">Febrero</label></div>
+                    <div class="col-2"><input type="text" id="pFebrero" required placeholder="820"></div>
+                </div>
+                <div class="row-3">
+                    <div class="col-1"><label for="pMarzo">Marzo</label></div>
+                    <div class="col-2"><input type="text" id="pMarzo" required placeholder="820"></div>
+                </div>
+                <div class="row-4">
+                    <div class="col-1"><label for="pAbril">Abril</label></div>
+                    <div class="col-2"><input type="text" id="pAbril" required placeholder="820"></div>
+                </div>
+                <div class="row-5">
+                    <div class="col-1"><label for="pMayo">Mayo</label></div>
+                    <div class="col-2"><input type="text" id="pMayo" required placeholder="820"></div>
+                </div>
+                <div class="row-6">
+                    <div class="col-1"><label for="pJunio">Junio</label></div>
+                    <div class="col-2"><input type="text" id="pJunio" required placeholder="820"></div>
+                </div>
+                <div class="row-7">
+                    <div class="col-1"><label for="pJulio">Julio</label></div>
+                    <div class="col-2"><input type="text" id="pJulio" required placeholder="820"></div>
+                </div>
+                <div class="row-8">
+                    <div class="col-1"><label for="pAgosto">Agosto</label></div>
+                    <div class="col-2"><input type="text" id="pAgosto" required placeholder="820"></div>
+                </div>
+                <div class="row-9">
+                    <div class="col-1"><label for="pSeptiembre">Septiembre</label></div>
+                    <div class="col-2"><input type="text" id="pSeptiembre" required placeholder="820"></div>
+                </div>
+                <div class="row-10">
+                    <div class="col-1"><label for="pOctubre">Octubre</label></div>
+                    <div class="col-2"><input type="text" id="pOctubre" required placeholder="820"></div>
+                </div>
+                <div class="row-11">
+                    <div class="col-1"><label for="pNoviembre">Noviembre</label></div>
+                    <div class="col-2"><input type="text" id="pNoviembre" required placeholder="820"></div>
+                </div>
+                <div class="row-12">
+                    <div class="col-1"><label for="pDiciembre">Diciembre</label></div>
+                    <div class="col-2"><input type="text" id="pDiciembre" required placeholder="820"></div>
+                </div>
+
+            </form>
+        </div>
+        <div class="boton1" id="boton-ingresar">
+            <form>
+                <button type="submit" id="btn-ingresar">Ejecutar programa</button>
+            </form>
+        </div>
+
+        <div class="result" id="result">
+            <h2>Resultados</h2>
+            <p>La climatología para la estación <span id="estacion">AAAAAA</span> con latitud <span id="lat">______</span> y longitud <span id="long">______</span>, es la siguiente:</p>
+            <p>Clima: <span id="clima">--------</span></p>
+            <p>Detalle: <span id="detalle">___________</span></p>
+            <p>Descripción: <span id="desc">___________</span></p>
+            <div class="res-int">
+                <div class="col-5">
+                    <p>Mes más lluvioso: <span id="lluvia">mes</span> (<span id="pmax">0</span> mm).</p>
+                    <p>Mes más seco: <span id="sequia">mes</span> (<span id="pmin">0</span> mm).</p>
+                    <p>Mes más cálido: <span id="calor">mes</span> (<span id="tmax">0</span> °C).</p>
+                    <p>Mes más frío: <span id="frio">mes</span> (<span id="tmin">0</span> °C).</p>
+                    <p>Precipitación anual total: <span id="prectot">0</span> mm.</p>
+                    <p>Temperatura media anual: <span id="tempp">0</span> °C.</p>
+                </div>
+                <div class="col-7"></div>
+                <div class="col-6">
+                    <p>Índice Lang (PA/TA): <span id="ilang">0</span>.</p>
+                    <p>% Precipitación invierno: <span id="ppinv">0</span>.</p>
+                    <p>% Precipitación verano: <span id="ppver">0</span>.</p>
+                    <p>Meses con temperatura > 10°C: <span id="mtem10">0</span>.</p>
+                    <p>Oscilación anual temp.: <span id="oscan">0</span>.</p>
+                    <p class="oculto"> - </p>
+                </div>
+            </div>
+        </div>
+        <div class="boton2" id="boton-limpiar">
+            <form>
+                <button type="button" id="btn-vaciar">Limpiar celdas</button>
+            </form>
+        </div>
+    </div>
+    <footer id="final">
+        <p>Contáctanos: isvaocmovil@gmail.com | aval0202@gmail.com</p>
+    </footer>
+
+
+    <script type="text/javascript" src="clima.js"></script>
+</body>
+
+</html>

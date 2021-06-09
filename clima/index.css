@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(160, 160, 160, 0.363);
+    font-family: Arial, sans-serif;
+    font-size: 1.1em;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    font-family: 'Suez One', serif;
+    font-size: 3em;
+    margin: 0px 0px 00px 0px;
+    padding: 6px 0px;
+    background-color: rgb(47, 47, 47);
+    color: white;
+    border-bottom: 1px solid rgba(160, 160, 160, 0.363);
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgb(47, 47, 47);
+    overflow: auto;
+    margin-bottom: 10px;
+}
+
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 33.33%;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: rgba(160, 160, 160, 0.363);
+}
+
+.active {
+    background-color: rgb(12, 70, 50);
+}
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+        width: 100%;
+    }
+}
+
+div.grid-container {
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 0px;
+    background-color: rgb(250, 250, 250);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    grid-column-gap: 4%;
+    grid-row-gap: 10px;
+    padding: 1% 5%;
+    height: inherit;
+}
+
+.expl {
+    grid-area: 1/1/2/3;
+    padding: 10px 4%;
+    text-align: justify;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.cita {
+    padding: 0px 3%;
+    font-size: 0.9em;
+}
+
+footer {
+    background-color: rgb(47, 47, 47);
+    color: white;
+    font-style: oblique;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 2px 0px;
+    margin-top: 10px;
+}
