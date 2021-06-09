@@ -187,7 +187,7 @@ header {
     }
 }
 
-@media (min-width: 860px) {
+@media (min-width: 1281px) {
     .col-3 {
         display: inline-block;
         width: auto;
@@ -215,9 +215,10 @@ header {
         width: auto;
         text-align: left;
     }
+    .nota{color:blue}
 }
 
-@media (min-width: 888px) {
+@media (min-width: 1288px) {
     .col-5 {
         display: inline-block;
         width: auto;
@@ -235,7 +236,7 @@ header {
     }
 }
 
-@media (min-width: 972px) {
+@media (min-width: 1372px) {
     .col-5 {
         display: inline-block;
         width: auto;
