@@ -24,7 +24,6 @@ header {
     width: 100%;
     background-color: rgb(47, 47, 47);
     overflow: auto;
-    margin-bottom: 10px;
 }
 
 .navbar a {
@@ -53,34 +52,37 @@ header {
     }
 }
 
-div.grid-container {
+.grid-container {
     width: 96%;
     margin-left: 2%;
     margin-right: 2%;
     margin-bottom: 0px;
     background-color: rgb(250, 250, 250);
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto;
-    grid-column-gap: 4%;
-    grid-row-gap: 10px;
     padding: 1% 5%;
     height: inherit;
 }
 
-.expl {
-    grid-area: 1/1/2/3;
-    padding: 10px 4%;
-    text-align: justify;
+#howto {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-.subtitulo {
+h2 {
     text-align: center;
 }
 
-.cita {
-    padding: 0px 3%;
-    font-size: 0.9em;
+.contenido {
+    text-align: justify;
+}
+
+.link {
+    color: rgb(0, 150, 105);
+}
+
+.link:hover {
+    color: rgb(0, 17, 112);
+    text-decoration: none;
 }
 
 footer {

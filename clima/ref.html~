@@ -18,6 +18,7 @@
     </header>
 
     <div class="navbar">
+        <a href="index.html">Inicio</a>
         <a href="#" class="active">Información del programa</a>
         <a href="clima.html">Clasificador de Köppen-García</a>
         </a>

@@ -16,6 +16,7 @@
     </header>
 
     <div class="navbar">
+        <a href="index.html">Inicio</a>
         <a href="ref.html">Información del programa</a>
         <a href="#" class="active">Clasificador de Köppen-García</a>
         </a>
