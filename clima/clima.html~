@@ -16,7 +16,7 @@
     </header>
 
     <div class="navbar">
-        <a href="ref.html">Información del programa</a>
+        <a href="index.html">Información del programa</a>
         <a href="#" class="active">Clasificador de Köppen-García</a>
         </a>
     </div>
@@ -37,16 +37,7 @@
                         <input type="text" id="altura" required placeholder="1234">
                     </div>
                 </div>
-                <div class="grupo2">
-                    <div class="col-3">
-                        <label for="latitud">Latitud de la estación </label>
-                        <input type="text" id="latitud" placeholder="00° 00' 00'' C">
-                    </div>
-                    <div class="col-4">
-                        <label for="longitud">Longitud de la estación </label>
-                        <input type="text" id="longitud" required placeholder="000° 00' 00.0'' C">
-                    </div>
-                </div>
+                
             </form>
         </div>
 

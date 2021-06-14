@@ -75,7 +75,8 @@ window.onload = function() {
     function leerElementos() {
         nombre = document.getElementById("nombre").value;
         altura = parseFloat(document.getElementById("altura").value);
-        
+        lat = document.getElementById("latitud").value;
+        long = document.getElementById("longitud").value;
         /* Obteniendo temperaturas y haciendo calculos */
         tEnero = parseFloat(document.getElementById("tEnero").value);
         tFebrero = parseFloat(document.getElementById("tFebrero").value);
@@ -275,7 +276,8 @@ window.onload = function() {
 
         document.getElementById("estacion").innerText = nombre;
         document.getElementById("clima").innerText = texto2;
-        
+        document.getElementById("lat").innerText = lat;
+        document.getElementById("long").innerText = long;
         document.getElementById("detalle").innerText = "[" + texto_lis + "]";
         document.getElementById("desc").innerText = "Clima " + des;
         document.getElementById("lluvia").innerText = mes_humedo;
@@ -302,6 +304,8 @@ window.onload = function() {
 
     function limpiarElementos() {
         document.getElementById("nombre").value = "";
+        document.getElementById("latitud").value = "";
+        document.getElementById("longitud").value = "";
         document.getElementById("altura").value = "";
         document.getElementById("tEnero").value = "";
         document.getElementById("tFebrero").value = "";
@@ -329,7 +333,8 @@ window.onload = function() {
         document.getElementById("pDiciembre").value = "";
 
         document.getElementById("estacion").innerText = "AAAAAA";
-        
+        document.getElementById("lat").innerText = "______";
+        document.getElementById("long").innerText = "______";
         document.getElementById("clima").innerText = "--------";
         document.getElementById("detalle").innerText = "___________";
         document.getElementById("desc").innerText = "___________";
