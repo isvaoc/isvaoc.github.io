@@ -75,7 +75,6 @@ window.onload = function() {
     function leerElementos() {
         nombre = document.getElementById("nombre").value;
         altura = parseFloat(document.getElementById("altura").value);
-        
         /* Obteniendo temperaturas y haciendo calculos */
         tEnero = parseFloat(document.getElementById("tEnero").value);
         tFebrero = parseFloat(document.getElementById("tFebrero").value);
@@ -197,7 +196,7 @@ window.onload = function() {
             } else {
                 RL = 2
             }
-        } else if (PL1 / (PS1 + 1)) {
+        } else if ((PL1 / (PS1 + 1)) > 3) {
             RL = 3
         } else {
             RL = 2
@@ -275,7 +274,6 @@ window.onload = function() {
 
         document.getElementById("estacion").innerText = nombre;
         document.getElementById("clima").innerText = texto2;
-        
         document.getElementById("detalle").innerText = "[" + texto_lis + "]";
         document.getElementById("desc").innerText = "Clima " + des;
         document.getElementById("lluvia").innerText = mes_humedo;
@@ -329,7 +327,6 @@ window.onload = function() {
         document.getElementById("pDiciembre").value = "";
 
         document.getElementById("estacion").innerText = "AAAAAA";
-        
         document.getElementById("clima").innerText = "--------";
         document.getElementById("detalle").innerText = "___________";
         document.getElementById("desc").innerText = "___________";
@@ -348,6 +345,10 @@ window.onload = function() {
         document.getElementById("ppver").innerText = "0";
         document.getElementById("mtem10").innerText = "0";
         document.getElementById("oscan").innerText = "0";
+
+        salida = "";
+        texto = "";
+
     }
 
     document.getElementById("btn-vaciar").onclick = limpiarElementos;
@@ -619,7 +620,7 @@ window.onload = function() {
     */
 
     function modulo9() {
-        if (PS1 > (-1) * ((PA - 1740) / 31)) { // (-1) puede ser 60-
+        if (PS1 > ((-1) * ((PA - 1740) / 31))) { // (-1) puede ser 60-
             if (PPI < 5) {
                 salida = texto + "(m)(w)," + modulo5()
             } else if (PPI < 10.2) {
